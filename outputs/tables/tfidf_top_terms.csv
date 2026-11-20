@@ -1,0 +1,25 @@
+rating_sentiment,term,mean_tfidf
+Negative,not,0.0699
+Negative,worst,0.0364
+Negative,food,0.0348
+Negative,bad,0.034
+Negative,no,0.0246
+Negative,not good,0.0243
+Negative,chicken,0.0219
+Negative,good,0.0206
+Negative,taste,0.0193
+Negative,service,0.0172
+Negative,quality,0.0171
+Negative,biryani,0.0171
+Positive,good,0.0954
+Positive,food,0.0371
+Positive,nice,0.0287
+Positive,service,0.028
+Positive,great,0.0237
+Positive,awesome,0.0208
+Positive,ambience,0.0206
+Positive,best,0.0196
+Positive,time,0.0185
+Positive,taste,0.0177
+Positive,chicken,0.0167
+Positive,amazing,0.0157

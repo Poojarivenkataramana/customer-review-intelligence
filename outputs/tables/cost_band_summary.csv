@@ -1,0 +1,5 @@
+cost_band,restaurants,avg_rating,complaint_rate,avg_cost
+Premium (>1000),31,3.95,26.07,1495.16
+Upper-mid (701-1000),18,3.51,31.13,877.78
+Mid (401-700),35,3.48,31.19,577.14
+Budget (<=400),16,3.31,31.32,303.12

@@ -1,0 +1,6 @@
+delivery_bucket,reviews,avg_rating,pct_negative_text
+<=30 min,30,2.5,40.0
+31-45,16,1.94,43.75
+46-60,14,1.5,57.14
+61-90,2,1.0,0.0
+>90 min,12,1.0,66.67

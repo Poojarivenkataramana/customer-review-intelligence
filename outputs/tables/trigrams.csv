@@ -1,0 +1,25 @@
+rating_sentiment,ngram,count
+Negative,food not good,40
+Negative,taste not good,34
+Negative,not upto mark,22
+Negative,veg non veg,22
+Negative,not worth money,18
+Negative,quality not good,16
+Negative,did not taste,15
+Negative,food not great,15
+Negative,not cooked properly,14
+Negative,not good experience,12
+Negative,menu not available,12
+Negative,not good not,11
+Positive,veg non veg,83
+Positive,north indian food,53
+Positive,overall good experience,48
+Positive,food good service,46
+Positive,good food good,44
+Positive,good service good,37
+Positive,starters main course,36
+Positive,food ambience service,35
+Positive,paneer butter masala,28
+Positive,ambience good food,28
+Positive,ambience food service,28
+Positive,non veg starters,26

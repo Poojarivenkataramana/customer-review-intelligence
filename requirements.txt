@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy
+scikit-learn
+matplotlib
+seaborn
+vaderSentiment
+textblob
+jupyter
+nbconvert
+ipykernel

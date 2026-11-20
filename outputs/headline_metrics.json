@@ -1,0 +1,53 @@
+{
+  "pipeline_log": {
+    "raw_rows": 10000,
+    "after_drop_empty_rows": 9962,
+    "non_numeric_ratings": 1,
+    "after_drop_empty_text": 9944,
+    "repeat_reviewer_text_kept": 6
+  },
+  "final_rows": 9944,
+  "restaurants": 100,
+  "date_range": [
+    "2016-05-31 16:41:00",
+    "2019-05-25 20:23:00"
+  ],
+  "avg_rating": 3.6,
+  "complaint_rate_%": 29.6,
+  "multi_complaint_%": 7.0,
+  "vader_distribution_%": {
+    "Positive": 74.3,
+    "Negative": 18.6,
+    "Neutral": 7.1
+  },
+  "rating_sentiment_distribution_%": {
+    "Positive": 62.9,
+    "Negative": 24.4,
+    "Neutral": 12.6
+  },
+  "delivery_times_found": 74,
+  "delivery_median_min": 40.0,
+  "word_model": {
+    "auc": 0.989,
+    "accuracy": 0.959,
+    "negative_f1": 0.926,
+    "negative_recall": 0.93,
+    "negative_precision": 0.922,
+    "n_train": 6948,
+    "n_test": 1738
+  },
+  "mismatch_counts": {
+    "Consistent": 9615,
+    "Low stars, positive text": 295,
+    "High stars, negative text": 34
+  },
+  "avg_rating_complaint_vs_not": [
+    2.32,
+    4.14
+  ],
+  "cost_rating_corr": 0.423,
+  "chars_negative_vs_positive": [
+    188,
+    185
+  ]
+}

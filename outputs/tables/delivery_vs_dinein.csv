@@ -1,0 +1,3 @@
+is_delivery_context,reviews,avg_rating,complaint_rate,negative_text_rate,rate_delivery,rate_food_quality,rate_packaging,rate_pricing,rate_staff_service,rate_hygiene
+Dine-in / other,8688,3.67,28.0,17.3,0.8,16.1,0.3,6.9,9.4,2.0
+Delivery / online order,1256,3.14,40.5,27.1,14.0,19.7,1.2,6.1,11.7,2.1
