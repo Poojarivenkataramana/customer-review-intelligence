@@ -196,5 +196,5 @@ pytest tests/
 ---
 
 ## 👤 Author
-* **Customer Review Intelligence Team**
+* **Venkataramana Poojari**
 * Built with Python, Pandas, Scikit-learn, VADER & Seaborn.
